@@ -20,8 +20,8 @@ async def start(c, m):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Source 😒', url='https://github.com/sahadz/screenShot-Bot'),
-                    InlineKeyboardButton('Project Channel', url='https://t.me/Dx_Bots')
+                    InlineKeyboardButton('Source 😒', url='https://github.com/odysseusmax/animated-lamp'),
+                    InlineKeyboardButton('Project Channel', url='https://t.me/Mlallbots')
                 ],
                 [
                     InlineKeyboardButton('My Father', url='https://t.me/odbots')
