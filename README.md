@@ -9,7 +9,7 @@ An attempt to implement the screenshot generation of telegram files without down
 
 ## Easy method
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ambi12255/screenShot-Bot/edit/master/README.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/satyushree/scrnbt)
 
 #### Prerequisites 
 * FFmpeg.
